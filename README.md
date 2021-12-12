@@ -56,6 +56,54 @@ B.) Output
 
 https://threejs.org/docs/#manual/en/buildTools/Testing-with-NPM
 
+### Github Interaction (Commit and Push)
+
+These are the steps-by-steps method:
+
+1.) Install Git
+
+2.) Remember to have .md files (can be void)
+
+3.) Move to the folder of the files, right click
+
+4.) Initialize git
+
+```
+git init
+```
+
+5.) You can check status using 
+
+```
+git status
+```
+
+6.) Add all files
+
+```
+git add .
+```
+
+7.) Commit using 
+
+```
+git commit -m "Commit Message" .
+```
+
+8.) Add origin
+
+```
+git remote add origin "https://github.com/cg2021iup/final-project-jaya-jaya-jaya-team"
+```
+
+9.) Push using
+
+```
+git push -u origin master
+```
+
+10.) Check that all the files have been uploaded in repository
+
 
 ### References
 
