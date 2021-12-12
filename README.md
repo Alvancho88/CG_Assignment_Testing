@@ -108,7 +108,7 @@ git push -u origin master
 
 ### 1 Creating the board, a still snake, some lighting, and the skeleton
 
-##### Board
+### Board
 
 index.html
 
@@ -276,7 +276,7 @@ function onMouseMove(event) {
 }
 ```
 
-##### Snake
+### Snake
 
 game.js
 ```
@@ -322,7 +322,7 @@ class Player {
 }
 ```
 
-##### Lights
+### Lighting
 
 game.js
 ```
@@ -350,7 +350,7 @@ directionalLight.shadow.camera.far = 1000
 scene.add(directionalLight);
 ```
 
-##### Skeleton
+### Skeleton
 
 game.js
 ```
@@ -436,15 +436,15 @@ gameLoop();
 ////////////////////////////////////
 ```
 
-2 Making the snake move
+### 2 Making the snake move
 
-3 Using arrow keys to change the snake’s direction
+### 3 Using arrow keys to change the snake’s direction
 
-4 Incorporating food 
+### 4 Incorporating food 
 
-5 Incorporating score
+### 5 Incorporating score
 
-6 Growing the snake
+### 6 Growing the snake
 
 ## Commit Link:
 
