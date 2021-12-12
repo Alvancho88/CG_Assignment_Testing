@@ -104,6 +104,62 @@ git push -u origin master
 
 10.) Check that all the files have been uploaded in repository
 
+## Steps:
+
+### 1 Displaying the board and a still snake
+
+##### Board
+
+##### Snake
+
+
+2 Making the snake move
+
+3 Using arrow keys to change the snake’s direction
+
+4 Incorporating food 
+
+5 Incorporating score
+
+6 Growing the snake
+
+## Commit Link:
+
+1 Aldi
+https://github.com/Alvancho88/CG_FP_Commit_1
+
+2 Gilbert
+https://github.com/Alvancho88/CG_FP_Commit_2
+
+3 Julius
+https://github.com/Alvancho88/CG_FP_Commit_3
+
+4 Khairi
+https://github.com/Alvancho88/CG_FP_Commit_4
+
+5 Bela
+https://github.com/Alvancho88/CG_FP_Commit_5
+
+6 Pihay
+https://github.com/Alvancho88/CG_FP_Commit_6
+
+
+Features to be added:
+
+Main Menu
+
+Ranking System
+
+Boost Food
+
+Following Camera
+
+Obstacle
+
+Boundless?
+
+Blackhole?
+
 
 ### References
 
@@ -123,40 +179,3 @@ https://github.com/LucasFerguson/Snake-Game-Three-Js.git
 https://github.com/bomsy
 
 https://github.com/gianmarcopicarella/Snake3D
-
-
-
-Steps:
-
-1 Displaying the board and a still snake
-
-Making the snake
-
-
-
-2 Making the snake move
-
-3 Using arrow keys to change the snake’s direction
-
-4 Incorporating food 
-
-5 Incorporating score
-
-6 Growing the snake
-
-
-Features to be added:
-
-Main Menu
-
-Ranking System
-
-Boost Food
-
-Following Camera
-
-Obstacle
-
-Boundless?
-
-Blackhole?
