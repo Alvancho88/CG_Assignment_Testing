@@ -681,17 +681,43 @@ onkeydown = onkeyup = function (e) {
 }
 ```
 
-### 3 Incorporating food 
+### 3 Spawning food 
 
+game.js
+```
+/**
+ * Food
+ */
+ let food = new THREE.Mesh(
+    new THREE.BoxGeometry(1, 1, 1),
+    new THREE.MeshLambertMaterial({
+        color: 0xff0000
+    })
+);
+scene.add(food);
+food.castShadow = true;
+
+let foodLight = new THREE.PointLight(0xff0000, 1, 20);
+scene.add(foodLight);
+
+function setup() {
+    spawnfood();
+}
+
+function spawnfood() {
+    food.position.x = Math.round(Math.random() * world.width - world.width / 2);
+    food.position.y = Math.round(Math.random() * world.height - world.height / 2);
+
+    foodLight.position.set(food.position.x, food.position.y, 3);
+
+}
 ```
 
-```
-
-### 4 
+### 4 Incorporating eating and snake grow
 
 ### 5 Incorporating score
 
-### 6 Growing the snake
+### 6 Features
 
 ## Commit Link:
 
@@ -713,6 +739,8 @@ https://github.com/Alvancho88/CG_FP_Commit_5
 6 Pihay
 https://github.com/Alvancho88/CG_FP_Commit_6
 
+Mixed
+https://github.com/Alvancho88/CG_FP_Commit_Features
 
 Features to be added:
 
