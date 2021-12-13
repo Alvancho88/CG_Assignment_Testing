@@ -106,16 +106,32 @@ git push -u origin master
 
 ## Github Interaction (Pull and Push)
 
+0.) Move to the folder of the files using command prompt
+
 1.) git clone "Git Link"
 
 ```
-git clone https://github.com/Alvancho88/CG_FP_Commit_Features
+git clone https://github.com/cg2021iup/final-project-jaya-jaya-jaya-team
 ```
 
 2.) Add all files
 
 ```
 git add .
+```
+
+3.) Commit using 
+
+```
+git commit -m "Commit Message" .
+```
+
+4.) Change the content of the file 
+
+5.) Push
+
+```
+git push -u origin master
 ```
 
 ## Steps:
