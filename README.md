@@ -653,7 +653,11 @@ onkeydown = onkeyup = function (e) {
 
 ### 3 Incorporating food 
 
-### 4 Incorporating food 
+```
+
+```
+
+### 4 
 
 ### 5 Incorporating score
 
