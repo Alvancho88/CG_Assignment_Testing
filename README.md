@@ -56,7 +56,7 @@ B.) Output
 
 https://threejs.org/docs/#manual/en/buildTools/Testing-with-NPM
 
-## Github Interaction (Commit and Push)
+## Github Interaction (First Commit and Push)
 
 These are the steps-by-steps method:
 
@@ -103,6 +103,20 @@ git push -u origin master
 ```
 
 10.) Check that all the files have been uploaded in repository
+
+## Github Interaction (Pull and Push)
+
+1.) git clone "Git Link"
+
+```
+git clone https://github.com/Alvancho88/CG_FP_Commit_Features
+```
+
+2.) Add all files
+
+```
+git add .
+```
 
 ## Steps:
 
