@@ -828,19 +828,25 @@ https://github.com/Alvancho88/CG_FP_Commit_Features
 
 Features to be added:
 
-Main Menu
+### Main Menu & Game Over Panel
+kurang dihias
 
-Ranking System
+### Ranking System
 
-Boost Food
+### Boost Food
 
-Following Camera
+### Following Camera
 
-Obstacle
+### Boundary
+udah kurang tekstur
 
-Boundless?
+### Obstacle
 
-Blackhole?
+### Permainan Cahaya
+
+### BGM (Background Music)
+
+### Sound Effect (Makan, nabrak, dll)
 
 
 ### References
